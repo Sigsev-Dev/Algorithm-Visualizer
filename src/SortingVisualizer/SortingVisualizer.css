@@ -1,0 +1,40 @@
+.body {
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    padding: 0 40px 10px 0;
+    line-height: 1.4;
+}
+
+.array-container {
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    background: rgba(99, 98, 98, 0.351);
+    position:absolute;
+    font-size: 20px;
+    font-style:initial;
+    color: rgb(255, 0, 0);
+
+}
+/*
+.bar-animation {
+    animation-name: completed;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+  @keyframes completed {
+    from {
+      background-color: rgb(53, 209, 6);
+    }
+    to {
+      background-color: rgba(51, 136, 25, 0.61);
+    }
+}  
+*/
+.array-bar {
+    width: 6px;
+    background-color: rgb(1, 7, 8);
+    display:inline-block;
+    margin: 1px;
+}
